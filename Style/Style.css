@@ -1,0 +1,32 @@
+.container {
+    width: 400px;
+    font-size: 20px;
+    padding: 20px 25px;
+    background-image: linear-gradient(to bottom, orange, white, green);
+    text-align: center;
+}
+
+.image {
+    width: 100%;
+    position: relative;
+    border-radius: 10px;
+    text-align: center;
+    background-color: white;
+    padding: 5px;
+
+}
+
+.heading {
+    text-align: center;
+    font-size: 40px;
+    color: red;
+    text-transform: uppercase;
+    text-decoration: overline underline;
+    text-shadow: 4px 6px 7px blue;
+}
+
+.content {
+    text-align: justify;
+    text-transform: none;
+    text-decoration: underline;
+}
